@@ -117,7 +117,7 @@ const LoginForm: React.FC<ILoginFormProps> = (
             }
             label="Remember me"
           />
-          <Typography variant="body2" color='error'>
+          <Typography variant="body2" color='error' id='error'>
             {_error}
           </Typography>
           <Button

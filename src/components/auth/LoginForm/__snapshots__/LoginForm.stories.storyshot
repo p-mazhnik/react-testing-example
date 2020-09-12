@@ -1051,6 +1051,7 @@ exports[`Storyshots auth/LoginForm Default 1`] = `
             </WithStyles(ForwardRef(FormControlLabel))>
             <WithStyles(ForwardRef(Typography))
               color="error"
+              id="error"
               variant="body2"
             >
               <ForwardRef(Typography)
@@ -1089,10 +1090,12 @@ exports[`Storyshots auth/LoginForm Default 1`] = `
                   }
                 }
                 color="error"
+                id="error"
                 variant="body2"
               >
                 <p
                   className="MuiTypography-root MuiTypography-body2 MuiTypography-colorError"
+                  id="error"
                 />
               </ForwardRef(Typography)>
             </WithStyles(ForwardRef(Typography))>
@@ -2545,6 +2548,7 @@ exports[`Storyshots auth/LoginForm With Sign Up And Password Recovery 1`] = `
             </WithStyles(ForwardRef(FormControlLabel))>
             <WithStyles(ForwardRef(Typography))
               color="error"
+              id="error"
               variant="body2"
             >
               <ForwardRef(Typography)
@@ -2583,10 +2587,12 @@ exports[`Storyshots auth/LoginForm With Sign Up And Password Recovery 1`] = `
                   }
                 }
                 color="error"
+                id="error"
                 variant="body2"
               >
                 <p
                   className="MuiTypography-root MuiTypography-body2 MuiTypography-colorError"
+                  id="error"
                 />
               </ForwardRef(Typography)>
             </WithStyles(ForwardRef(Typography))>
