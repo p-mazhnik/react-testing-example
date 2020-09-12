@@ -7,9 +7,19 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --watchAll=false",
-    "test:update_snapshots": "yarn test -- -u",
+    "test:coverage": "yarn test --coverage",
+    "test:update_snapshots": "yarn test -u",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.(js|jsx|ts|tsx)$": "<rootDir>/node_modules/ts-jest"
+    },
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,ts,tsx}",
+      "!<rootDir>/node_modules/"
+    ]
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -57,6 +67,7 @@
     "enzyme-adapter-react-16": "^1.15.4",
     "jest": "^26.3.0",
     "jest-enzyme": "^7.1.2",
-    "react-is": "^16.13.1"
+    "react-is": "^16.13.1",
+    "ts-jest": "^26.3.0"
   }
 }
