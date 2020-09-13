@@ -1,14 +1,14 @@
 # React Testing Example  
-![](./public/logo200.png)  
+[![](./public/logo200.png)](#)  
 <br/>
-![jest](https://jestjs.io/img/jest-badge.svg)
-![storybook](https://raw.githubusercontent.com/storybooks/brand/master/badge/badge-storybook.svg)
+[![jest](https://jestjs.io/img/jest-badge.svg)](#)
+[![storybook](https://raw.githubusercontent.com/storybooks/brand/master/badge/badge-storybook.svg)](#)
 <br/>
-[![Test React Apps as a Pro. Part 1](./docs/medium1.svg)]()  
+[![Test React Apps as a Pro. Part 1](./docs/medium1.svg)](https://medium.com/@p.mazhnik/test-react-apps-as-a-pro-part-1-f5e10ae0b41b)  
 <br/>
 Source code of Medium Articles which describes how to apply component driven and test driven development approaches in React + Redux apps to achieve flexible architecture and 100% code coverage:  
 
-- [Test React Apps as a Pro. Part 1]()
+- [Test React Apps as a Pro. Part 1](https://medium.com/@p.mazhnik/test-react-apps-as-a-pro-part-1-f5e10ae0b41b)
 
 ## Main Libraries Used 🛠
 
@@ -61,4 +61,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 To learn Storybook, check out the [Storybook documentation](https://storybook.js.org/docs/react/get-started/introduction).  
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-![](./docs/cover.png)
+![](./docs/cover1280.png)
