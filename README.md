@@ -1,8 +1,30 @@
-# React Testing Example
+# React Testing Example  
+![](./public/logo200.png)  
+<br/>
+[![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
+<img src="https://raw.githubusercontent.com/storybooks/brand/master/badge/badge-storybook.svg" alt="Storybook">
+<br/>
+[![](./docs/medium1.svg)]()  
+<br/>
+Source code of Medium Articles which describes how to apply component driven and test driven development approaches in React + Redux apps to achieve flexible architecture and 100% code coverage:  
+
+- [Test React Apps as a Pro. Part 1]()
+
+## Main Libraries Used 🛠
+
+- [Create React App](https://create-react-app.dev/)
+- [Storybook <img width="10" src="https://github.com/storybookjs/brand/raw/master/icon/icon-storybook-default.svg" />](https://storybook.js.org/docs/react/get-started/introduction)
+- [Enzyme](https://github.com/enzymejs/enzyme)
+- [Jest](https://jestjs.io/)  
+- [Material-UI <img width="20" src="https://material-ui.com/static/logo.svg" alt="Material-UI logo">](https://material-ui.com/) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project structure 🧱
+
+![](./docs/project_structure.png)
+
+## Available Scripts 👨‍💻
 
 In the project directory, you can run:
 
@@ -13,6 +35,10 @@ Runs storybook.
 ### `yarn test`
 
 Launches the test runner.<br />
+
+### `yarn run test:coverage`  
+
+Launches the test runner and generates coverage report.  
 
 ### `yarn start`
 
@@ -32,7 +58,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Learn More
+## Learn More 📖
 
 To learn Storybook, check out the [Storybook documentation](https://storybook.js.org/docs/react/get-started/introduction).  
 To learn React, check out the [React documentation](https://reactjs.org/).

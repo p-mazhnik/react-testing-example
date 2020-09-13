@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="207" height="20" role="img"
+     aria-label="Test React Apps as a Pro: Part 1">
+    <title>Test React Apps as a Pro: Part 1</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="207" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+    <g clip-path="url(#r)">
+        <rect width="164" height="20" fill="#555"/>
+        <rect x="164" width="43" height="20" fill="#9f9f9f"/>
+        <rect width="207" height="20" fill="url(#s)"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+       text-rendering="geometricPrecision" font-size="110">
+        <image x="5" y="3" width="14" height="14"
+               xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWVkaXVtIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0wIDB2MjRoMjRWMEgwem0xOS45MzggNS42ODZMMTguNjUxIDYuOTJhLjM3Ni4zNzYgMCAwIDAtLjE0My4zNjJ2OS4wNjdhLjM3Ni4zNzYgMCAwIDAgLjE0My4zNjFsMS4yNTcgMS4yMzR2LjI3MWgtNi4zMjJ2LS4yN2wxLjMwMi0xLjI2NWMuMTI4LS4xMjguMTI4LS4xNjUuMTI4LS4zNlY4Ljk5bC0zLjYyIDkuMTk1aC0uNDlMNi42OSA4Ljk5djYuMTYzYS44NS44NSAwIDAgMCAuMjMzLjcwN2wxLjY5NCAyLjA1NHYuMjcxSDMuODE1di0uMjdMNS41MSAxNS44NmEuODIuODIgMCAwIDAgLjIxOC0uNzA3VjguMDI3YS42MjQuNjI0IDAgMCAwLS4yMDMtLjUyN0w0LjAxOSA1LjY4NnYtLjI3aDQuNjc0bDMuNjEzIDcuOTIzIDMuMTc2LTcuOTI0aDQuNDU2di4yNzF6Ii8+PC9zdmc+"/>
+        <text aria-hidden="true" x="915" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)"
+              textLength="1370">Test React Apps as a Pro
+        </text>
+        <text x="915" y="140" transform="scale(.1)" fill="#fff" textLength="1370">Test React Apps as a Pro</text>
+        <text aria-hidden="true" x="1845" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)"
+              textLength="330">Part 1
+        </text>
+        <text x="1845" y="140" transform="scale(.1)" fill="#fff" textLength="330">Part 1</text>
+    </g>
+</svg>
